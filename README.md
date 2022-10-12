@@ -15,7 +15,6 @@ learn a lot during these 7 days and it was an amazing experience learning with D
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/machine%20learning.pn"> </a>
 
 <br>I got to have hands on experience on:
-
 <li>Python
 
 <li>Machine Learning
